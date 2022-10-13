@@ -1,0 +1,11 @@
+.App{
+  position: absolute;
+  width: 1920px;
+  height: 685px;
+  left: 0px;
+  top: 80px;
+
+  background: linear-gradient(180deg, rgba(38, 38, 38, 0) 29.9%, #282620 100%);
+}
+
+
